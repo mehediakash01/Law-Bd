@@ -1,0 +1,45 @@
+[
+    {
+      "image": "https://example.com/images/lawyer7.jpg",
+      "name": "Olivia Johnson",
+      "speciality": "Tax Law",
+      "experience": "8 years",
+      "licenseNumber": "LAW1007"
+    },
+    {
+      "image": "https://example.com/images/lawyer8.jpg",
+      "name": "Ethan Brooks",
+      "speciality": "Real Estate Law",
+      "experience": "6 years",
+      "licenseNumber": "LAW1008"
+    },
+    {
+      "image": "https://example.com/images/lawyer9.jpg",
+      "name": "Mia Davis",
+      "speciality": "Civil Rights",
+      "experience": "14 years",
+      "licenseNumber": "LAW1009"
+    },
+    {
+      "image": "https://example.com/images/lawyer10.jpg",
+      "name": "Jackson Lee",
+      "speciality": "Bankruptcy Law",
+      "experience": "9 years",
+      "licenseNumber": "LAW1010"
+    },
+    {
+      "image": "https://example.com/images/lawyer11.jpg",
+      "name": "Isabella Ahmed",
+      "speciality": "Labor Law",
+      "experience": "13 years",
+      "licenseNumber": "LAW1011"
+    },
+    {
+      "image": "https://example.com/images/lawyer12.jpg",
+      "name": "Lucas Kim",
+      "speciality": "International Law",
+      "experience": "10 years",
+      "licenseNumber": "LAW1012"
+    }
+  ]
+  

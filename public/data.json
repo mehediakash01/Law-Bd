@@ -1,0 +1,45 @@
+[
+    {
+      "image": "https://example.com/images/lawyer1.jpg",
+      "name": "Ava Thompson",
+      "speciality": "Criminal Defense",
+      "experience": "12 years",
+      "licenseNumber": "LAW1001"
+    },
+    {
+      "image": "https://example.com/images/lawyer2.jpg",
+      "name": "Benjamin Carter",
+      "speciality": "Corporate Law",
+      "experience": "9 years",
+      "licenseNumber": "LAW1002"
+    },
+    {
+      "image": "https://example.com/images/lawyer3.jpg",
+      "name": "Sophia Martinez",
+      "speciality": "Family Law",
+      "experience": "15 years",
+      "licenseNumber": "LAW1003"
+    },
+    {
+      "image": "https://example.com/images/lawyer4.jpg",
+      "name": "Liam Patel",
+      "speciality": "Immigration Law",
+      "experience": "7 years",
+      "licenseNumber": "LAW1004"
+    },
+    {
+      "image": "https://example.com/images/lawyer5.jpg",
+      "name": "Emily Chen",
+      "speciality": "Intellectual Property",
+      "experience": "10 years",
+      "licenseNumber": "LAW1005"
+    },
+    {
+      "image": "https://example.com/images/lawyer6.jpg",
+      "name": "Noah Smith",
+      "speciality": "Environmental Law",
+      "experience": "11 years",
+      "licenseNumber": "LAW1006"
+    }
+  ]
+  
